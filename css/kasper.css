@@ -1126,6 +1126,7 @@ html{
     border: none;
     background-color: transparent;
     color: white;
+    outline: none;
 }
 
 .subscribe .container .subs-content input::placeholder{
